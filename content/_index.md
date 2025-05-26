@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-Welcome to my Hugo site!
+Welcome to my site!
