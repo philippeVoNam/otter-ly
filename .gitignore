@@ -1,0 +1,14 @@
+# Ignore the generated public folder (built site)
+# public/
+
+# Ignore Hugo cache files
+resources/_gen/
+
+# Ignore any OS or editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore Hugo build logs
+hugo_stats.json
