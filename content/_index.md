@@ -2,6 +2,6 @@
 title: "Home"
 ---
 
-[Blogs](/blogs/)
+[Blogs](/otter-ly/blogs/)
 
-[About](/about/)
+[About](/otter-ly/about/)

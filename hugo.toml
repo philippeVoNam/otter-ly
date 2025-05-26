@@ -2,9 +2,7 @@ baseURL = "https://philippevonam.github.io/otter-ly/"
 languageCode = 'en-us'
 title = 'otter-ly'
 theme = "PaperMod"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
-relativeURLs = true
-canonifyURLs = false
