@@ -2,6 +2,6 @@
 title: "Home"
 ---
 
-Welcome to my Hugo site!
+[Blogs](/blogs/)
 
-[About Page](/about/)
+[About](/about/)

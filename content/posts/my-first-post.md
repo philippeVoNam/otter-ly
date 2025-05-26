@@ -1,7 +1,0 @@
----
-title: "My First Post"
-date: 2025-05-26T12:00:00Z
-draft: true
----
-
-Hello, this is my **first post** on Hugo!
