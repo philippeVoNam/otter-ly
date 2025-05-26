@@ -1,5 +1,5 @@
 # Ignore the generated public folder (built site)
-# public/
+public/
 
 # Ignore Hugo cache files
 resources/_gen/

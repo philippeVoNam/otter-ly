@@ -2,4 +2,6 @@
 title: "Home"
 ---
 
-Welcome to my site!
+Welcome to my Hugo site!
+
+[About Page](/about/)
